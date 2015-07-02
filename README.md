@@ -8,7 +8,7 @@ Packages can easily extend the menubar. First of all, unsure that `menubar` is a
 
 ```json
 "packageDependencies": {
-    "menubar": "CodeboxIDE/package-menubar"
+    "menubar": "code-box/package-menubar"
 }
 ```
 
